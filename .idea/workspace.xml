@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7e325fd3-313c-4edc-a3f6-b3b13b750b0f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#1986#1992#0" expanded="true" />
                 <element signature="e#1997#2003#0" expanded="true" />
@@ -142,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519721508544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mobile Changes:&#10;&#10;Small tweaks to banner with social stuff.">
+      <created>1519722019380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519722019380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -178,7 +184,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mobile Changes:&#10;&#10;Small tweaks as I look to mobile optimise the whole thing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mobile Changes:&#10;&#10;Small tweaks as I look to mobile optimise the whole thing." />
+    <MESSAGE value="Mobile Changes:&#10;&#10;Small tweaks to banner with social stuff." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mobile Changes:&#10;&#10;Small tweaks to banner with social stuff." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -187,8 +194,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#1986#1992#0" expanded="true" />
             <element signature="e#1997#2003#0" expanded="true" />
