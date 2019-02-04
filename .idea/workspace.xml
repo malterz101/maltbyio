@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e325fd3-313c-4edc-a3f6-b3b13b750b0f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/CV - Will Maltby.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SnellBT-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/alex-brush-v10-latin-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/bilbo-v8-latin-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/43-twitter-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Octicons-mark-github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/architecture-black-and-white-boat-674743.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/codep.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/graph1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/linkin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indexold.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet2.css" afterDir="false" />
+    <list default="true" id="7e325fd3-313c-4edc-a3f6-b3b13b750b0f" name="Default" comment="Website Rebuild.&#10;&#10;Need to fix image issues and blank space plus add more content.">
+      <change afterPath="$PROJECT_DIR$/Inputs/AoCInput1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/AoCInput2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/AoCInput3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/AoCInput4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/AoCInput5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/AoCInput6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/DAYFOUR.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Preview-graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/code-prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/prev-code.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/CV - William.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Preview.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet2.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet2.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +25,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AoC/DAYFOUR.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/DAYFOUR.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="106">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -58,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheet2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="154" column="21" selection-start-line="154" selection-start-column="21" selection-end-line="154" selection-end-column="21" />
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -90,10 +105,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1343" />
-    <option name="height" value="877" />
+    <option name="width" value="1280" />
+    <option name="height" value="697" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -123,6 +138,11 @@
               <item name="maltbyio" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="maltbyio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maltbyio" type="462c0819:PsiDirectoryNode" />
+              <item name="Inputs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -143,6 +163,8 @@
       <recent name="$PROJECT_DIR$/doc" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/doc" />
     </key>
   </component>
@@ -171,7 +193,7 @@
       <workItem from="1545645501431" duration="3772000" />
       <workItem from="1547291176410" duration="174000" />
       <workItem from="1547726991437" duration="3000" />
-      <workItem from="1548950532336" duration="12006000" />
+      <workItem from="1548950532336" duration="14839000" />
     </task>
     <task id="LOCAL-00001" summary="Mobile Changes:&#10;&#10;Small tweaks as I look to mobile optimise the whole thing.">
       <created>1519721508544</created>
@@ -187,17 +209,24 @@
       <option name="project" value="LOCAL" />
       <updated>1519722019380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Website Rebuild.&#10;&#10;Need to fix image issues and blank space plus add more content.">
+      <created>1549220227665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549220227666</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15955000" />
+    <option name="totallyTimeSpent" value="18788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1343" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3059185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28397712" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -227,7 +256,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mobile Changes:&#10;&#10;Small tweaks as I look to mobile optimise the whole thing." />
     <MESSAGE value="Mobile Changes:&#10;&#10;Small tweaks to banner with social stuff." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mobile Changes:&#10;&#10;Small tweaks to banner with social stuff." />
+    <MESSAGE value="Website Rebuild.&#10;&#10;Need to fix image issues and blank space plus add more content." />
+    <option name="LAST_COMMIT_MESSAGE" value="Website Rebuild.&#10;&#10;Need to fix image issues and blank space plus add more content." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stylesheet.css">
@@ -256,17 +286,30 @@
     <entry file="file://$PROJECT_DIR$/Functions.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="154" column="21" selection-start-line="154" selection-start-column="21" selection-end-line="154" selection-end-column="21" />
+    <entry file="file://$PROJECT_DIR$/Inputs/AoCInput1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/DAYFOUR.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled/DataManagement.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AoC/DAYFOUR.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="106">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -275,6 +318,20 @@
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/DAYFOUR.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
